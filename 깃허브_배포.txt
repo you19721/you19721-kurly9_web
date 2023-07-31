@@ -1,7 +1,7 @@
 git init
 git config user.name  'you19721'
 git config user.email 'you19721@naver.com'
-git remote add origin https://github.com/you19721/kurly9_web.git
+git remote add origin  https://github.com/you19721/you19721-kurly9_web.git
 
 오리진 확인
 git remote -v
